@@ -1,3 +1,5 @@
+# Wearable iot
+* [Wearable technology and the IoT](https://www.ericsson.com/en/reports-and-papers/consumerlab/reports/wearable-technology-and-the-internet-of-things)
 # 참고문헌
 * [헬스케어 빅데이터로 어떻게 돈을 벌 수 있을까?](https://publy.co/content/1653)
 * [스마트 의류 시장 현황 및 기술 이슈](https://www.eiric.or.kr/literature/ser_view.php?grp_gu=inle&f1=DS&gu=INLE013A0&q1_yy=2018&q1_mm=12&rn=10&q1_vol=45&q1_no=12&cmd=qryview&SnxIndxNum=219388&rownum=6&totalCnt=12&pg=1)
