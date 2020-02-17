@@ -1,4 +1,4 @@
-# small solar panel
+# small solar panel 판넬 파는 
 [아마존](https://www.amazon.com/JIANG-Flexible-Science-Experiments-Translucent/dp/B07PPYSVNZ/ref=sr_1_1_sspa?keywords=small%2Bflexible%2Bsolar%2Bpanel&qid=1580286920&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExSzNIWlRDWE5DTDE2JmVuY3J5cHRlZElkPUEwNTM5MjE5MjBJTko3VkhGOFg2WiZlbmNyeXB0ZWRBZElkPUEwOTYzNzMxMU9XUFRaSDZXNjJBWiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1)
 
 
