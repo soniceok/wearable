@@ -1,3 +1,10 @@
+#참고논문
+Energy Harvesting For Wearable Devices: A Review
+Article in IEEE Sensors Journal PP(99):1-1 · June 2019 with 256 Reads 
+DOI: 10.1109/JSEN.2019.2925638
+
+
+
 # Wearable AI
 * [Wearable Artificial Intelligence Market Report 2019 | Wearable AI Industry Analysis to 2025](https://www.marketwatch.com/press-release/wearable-artificial-intelligence-market-report-2019-wearable-ai-industry-analysis-to-2025-2019-09-03)
 
