@@ -1,4 +1,32 @@
-https://en.wikipedia.org/wiki/Energy_harvesting
+LED가 켜지는 조건
+1. 스마트폰을 흔들 때
+2. 주변 소리가 날 때
+3. 어두울 때
+
+연구내용 
+1. 에너지가 어느정도 일 때 LED가 켜지는가?
+2. 에너지하베스트 구조는 어떻게 만들까(회로)?
+3. 저장장치는 어떻게 구성할까(부품 등)?
+4. 어떤 에너지 하베스트가 노약자의 안전에 최적일까?
+
+[에너지 하베스트의 종류](https://en.wikipedia.org/wiki/Energy_harvesting)
+3.1	Ambient-radiation sources
+3.2	Fluid flow
+3.3	Photovoltaic
+3.4	Piezoelectric
+3.5	Energy from smart roads and piezoelectricity
+3.6	Smart transportation intelligent system
+3.7	Pyroelectric
+3.8	Thermoelectrics
+3.9	Electrostatic (capacitive)
+3.10	Magnetic induction
+3.11	Blood sugar
+3.12	Tree-based
+3.13	Metamaterial
+3.14	Atmospheric pressure changes
+3.15	Ocean Energy
+
+
 
 스마트 기술과 지속가능성, 디자인 가트 등 사례 고찰
 1. 용어
