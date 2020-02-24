@@ -1,15 +1,16 @@
-LED가 켜지는 조건
+## LED가 켜지는 조건
 1. 스마트폰을 흔들 때
 2. 주변 소리가 날 때
 3. 어두울 때
 
-연구내용 
+## 연구내용 
 1. 에너지가 어느정도 일 때 LED가 켜지는가?
 2. 에너지하베스트 구조는 어떻게 만들까(회로)?
 3. 저장장치는 어떻게 구성할까(부품 등)?
 4. 어떤 에너지 하베스트가 노약자의 안전에 최적일까?
 
-[에너지 하베스트의 종류](https://en.wikipedia.org/wiki/Energy_harvesting)
+## [에너지 하베스트의 종류](https://en.wikipedia.org/wiki/Energy_harvesting)
+
 3.1	Ambient-radiation sources
 3.2	Fluid flow
 3.3	Photovoltaic
