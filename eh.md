@@ -1,3 +1,4 @@
+https://en.wikipedia.org/wiki/Energy_harvesting
 
 스마트 기술과 지속가능성, 디자인 가트 등 사례 고찰
 1. 용어
